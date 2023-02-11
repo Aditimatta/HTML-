@@ -18,6 +18,6 @@ HTML is a code that is used to structure a webpage and it's content. It designs 
 ## Body Tag
 
 Main tags inside body tag includes -
-- <h1> till <h6> tag
-- <p> tag
-- <pre> tag
+- h1 till h6 tag
+- p tag
+- pre tag
