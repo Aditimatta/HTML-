@@ -1,6 +1,6 @@
 # Hypertext Markup Language (HTML)
 
-HTML is a code that is used to structure a webpage and it's content. It designs the basic structure of a website.
+HTML is a markup language that is used to structure a webpage and it's content. It designs the basic structure of a website.
 
 ### Basic HTML structure 
 ```
