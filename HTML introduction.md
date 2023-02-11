@@ -14,7 +14,6 @@ HTML is a markup language that is used to structure a webpage and it's content. 
 </html>
 ```
 
-
 ## Body Tag
 
 Main tags inside body tag includes -
