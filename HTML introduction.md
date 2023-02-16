@@ -44,8 +44,10 @@ Subscript <sub> - Creates a text format such as x₂
 Delete tag <del> - A line will be created through the text.
 Insert tag <ins> - It puts new text in place of the <del></del> tag items (honestly this tag is somewhat useless for me).
 Block of quote <blockquote> - Created a block of quote i.e. helps writing paragraphs of quotes (changes the format a bit)
-Quote <q> - Writes a one liner quote 
+Quote <q> - Writes a one liner quote
+
 *NOTE* - <blockquote> and <q> are not quite diffirent honestly, unless you use the cite attribute with <blockquote> which is a very in-depth concept.
+
 Abrriviations <abbr> - It writes an abbriviation for any word. It underlines the specific work. When used with title attribute, it can show the full-form when hovered over it.
 Address <address> - Creates a different format style for mentioning an address.
 Big tag <big> - Slightly increases the size of the text mentioned within the tag.
