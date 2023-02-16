@@ -2,11 +2,13 @@
 
 HTML is a markup language that is used to structure a webpage and it's content. It designs the basic structure of a website.
 
+
 ## Some important keywords
 1. Opening Tags -  Tags which do not require a closing.
 2. Closing Tags - Tags which have an opening as well as a closing element.
 3. Static website - Websites where the content remains same for all.
 4. Dynamic websites - Websites where content is displayed according to the user.
+
 
 ### Basic HTML structure 
 ```
@@ -20,6 +22,7 @@ HTML is a markup language that is used to structure a webpage and it's content. 
 </html>
 ```
 
+
 ### Body Tag
 
 Main tags inside body tag includes -
@@ -27,8 +30,9 @@ Main tags inside body tag includes -
 - p tag
 - pre tag
 
+
 ### Comment Tag
-SYNTAX - 
+SYNTAX - <~--CONTENT-->
 
 
 ### Important attributes for HTML
