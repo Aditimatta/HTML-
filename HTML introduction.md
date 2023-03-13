@@ -7,7 +7,7 @@ HTML is a markup language that is used to structure a webpage and it's content. 
 1. Opening Tags -  Tags which do not require a closing.
 2. Closing Tags - Tags which have an opening as well as a closing element.
 3. Static website - Websites where the content remains same for all.
-4. Dynamic websites - Websites where content is displayed according to the user.
+4. Dynamic websites - Websites where content customized according to the user.
 
 
 ### Basic HTML structure 
